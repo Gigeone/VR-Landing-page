@@ -31,8 +31,8 @@ const Headsets = () => {
             <div className="absolute bottom-0 bg-white/20 backdrop-blur-md max-w-[300px] min-h-[150px] p-6">
               <h4 className="font-semibold text-xl mb-2">Metaverse</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam
-                aspernatur commodi dolor laborum soluta omnis.
+                Explore shared virtual spaces, attend live concerts and meet friends as
+                lifelike avatars, all from your living room.
               </p>
             </div>
           </div>
@@ -47,8 +47,8 @@ const Headsets = () => {
             <div className="absolute bottom-0 bg-white/20 backdrop-blur-md max-w-[300px] min-h-[150px] p-6">
               <h4 className="font-semibold text-xl mb-2">AIoT</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam
-                aspernatur commodi dolor laborum soluta omnis.
+                Connect your smart home devices and control lights, music and climate
+                with a simple gesture while you play.
               </p>
             </div>
           </div>
@@ -63,8 +63,8 @@ const Headsets = () => {
             <div className="absolute bottom-0 bg-white/20 backdrop-blur-md max-w-[300px] min-h-[150px] p-6">
               <h4 className="font-semibold text-xl mb-2">HoloLens</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam
-                aspernatur commodi dolor laborum soluta omnis.
+                Overlay digital models onto the real world: perfect for designers,
+                engineers and students who learn by doing.
               </p>
             </div>
           </div>
@@ -79,8 +79,8 @@ const Headsets = () => {
             <div className="absolute bottom-0 bg-white/20 backdrop-blur-md max-w-[300px] min-h-[150px] p-6">
               <h4 className="font-semibold text-xl mb-2">TPCASTT</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam
-                aspernatur commodi dolor laborum soluta omnis.
+                Turn any room into a private cinema with immersive sound and a giant
+                virtual screen that follows your gaze.
               </p>
             </div>
           </div>

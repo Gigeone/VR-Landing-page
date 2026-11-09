@@ -32,9 +32,9 @@ const Experience = () => {
               New Experience In Playing Games
             </h2>
             <p className="font-secondary mb-6">
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam
-              illum minus asperiores aliquid dolore deserunt maiores ipsa iure.
-              Hic, nam!
+              Precise hand tracking, zero-lag controllers and a library of more than
+              500 titles: from cooperative adventures to competitive arenas, play
+              with friends anywhere in the world as if they were in the room.
             </p>
             <button className="btn">Get it now</button>
           </div>

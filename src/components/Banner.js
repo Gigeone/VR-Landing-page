@@ -25,10 +25,9 @@ const Banner = () => {
               data-aos="fade-down"
               data-aos-delay="600"
             >
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo, qui
-              nihil. Labore, numquam, ipsum omnis, veniam aut exercitationem
-              possimus sunt at quam rem impedit earum facere voluptate beatae
-              iure natus.
+              Step into worlds that surround you. Our ultra-light headset delivers crisp 4K
+              visuals, 120 Hz fluid motion and spatial audio, so every game, film
+              and workout feels like you are really there.
             </p>
             {/* btns */}
             <div

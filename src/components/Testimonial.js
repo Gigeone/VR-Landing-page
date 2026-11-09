@@ -23,9 +23,8 @@ const Testimonial = () => {
               data-aos-offset='300'
               data-aos-delay='1800'
             >
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam,
-              provident deleniti. Eius soluta quisquam ex, nam dolor excepturi
-              id accusamus.
+              Gamers, architects, teachers and fitness coaches use our headsets every
+              day. Here is what a few of them have to say.
             </p>
           </div>
           {/* slider */}

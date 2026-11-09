@@ -17,7 +17,8 @@ const Explore = () => {
             data-aos="fade-right"
             data-aos-offset="1100"
           >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            Book a free 20-minute demo in one of our stores, or get a headset
+            delivered to try at home for 30 days.
           </p>
           {/* form */}
           <form
